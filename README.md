@@ -50,21 +50,20 @@ b. **Import schema:**
 ### 3. Cài đặt dependencies
 
 Clone repository về máy của bạn và cài đặt các gói phụ thuộc:
-git clone https://github.com/hungvo29122003/Library-Management-System-Backend-API.git
-cd Library-Management-System-Backend-API
+git clone https://github.com/hungvo29122003/Library-Management-System-Backend-API.git 
+cd Library-Management-System-Backend-API  
 npm install
 
 
 ### 4. Cấu hình biến môi trường
 
-Tạo một file `.env` trong thư mục gốc của dự án và thêm các thông tin sau:
-
-DB_HOST=localhost
-DB_USER=your_mysql_username
-DB_PASSWORD=your_mysql_password
-DB_NAME=library_management_system
-JWT_SECRET=your_secret_key_for_jwt # Thay thế bằng một chuỗi ngẫu nhiên mạnh
-PORT=3000 # Hoặc một cổng khác nếu muốn
+Tạo một file `.env` trong thư mục gốc của dự án và thêm các thông tin sau:  
+DB_HOST=localhost  
+DB_USER=your_mysql_username  
+DB_PASSWORD=your_mysql_password  
+DB_NAME=library_management_system  
+JWT_SECRET=your_secret_key_for_jwt # Thay thế bằng một chuỗi ngẫu nhiên mạnh  
+PORT=3000 # Hoặc một cổng khác nếu muốn  
 *Thay thế `your_mysql_username` và `your_mysql_password` bằng thông tin đăng nhập MySQL của bạn.*
 
 ### 5. Khởi chạy ứng dụng
