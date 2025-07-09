@@ -1,3 +1,4 @@
+```
 # Library Management System - Backend API 📚
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -71,3 +72,5 @@ PORT=3000 # Hoặc một cổng khác nếu muốn
 Bằng câu lệnh npm start hoặc npm run dev vì đã được cấu hình nodemon trong package.json rồi 
 
 
+
+```
