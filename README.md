@@ -67,6 +67,16 @@ PORT=3000 # Hoặc một cổng khác nếu muốn
 *Thay thế `your_mysql_username` và `your_mysql_password` bằng thông tin đăng nhập MySQL của bạn.*
 
 ### 5. Khởi chạy ứng dụng
-Bằng câu lệnh npm start hoặc npm run dev vì đã được cấu hình nodemon trong package.json rồi 
+Bằng câu lệnh npm start hoặc npm run dev vì đã được cấu hình nodemon trong package.json rồi  
+
+## 🤝 Liên hệ
+
+Nếu bạn có thắc mắc hoặc muốn trao đổi thêm, vui lòng liên hệ:
+
+- **Võ Phi Hùng**  
+- Email: acczinsv5@gmail.com  
+- GitHub: [hungvo29122003](https://github.com/hungvo29122003)
+
+---
 
 
