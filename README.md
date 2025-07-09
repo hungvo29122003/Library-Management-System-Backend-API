@@ -49,8 +49,8 @@ b. **Import schema:**
 
 ### 3. Cài đặt dependencies
 
-Clone repository về máy của bạn và cài đặt các gói phụ thuộc:
-git clone https://github.com/hungvo29122003/Library-Management-System-Backend-API.git 
+Clone repository về máy của bạn và cài đặt các gói phụ thuộc:  
+git clone https://github.com/hungvo29122003/Library-Management-System-Backend-API.git  
 cd Library-Management-System-Backend-API  
 npm install
 
